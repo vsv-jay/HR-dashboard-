@@ -5,13 +5,6 @@ This project focuses on analyzing human resources data using Tableau to help org
 
 The dashboard is designed for HR managers and leadership teams to support data-driven workforce planning and retention strategies.
 
----
-
-## 📸 Dashboard Preview
-*(Add a dashboard screenshot here as `.png`)*
-[HR DASHBOARD.png]
----
-
 ## 🎯 Objectives
 - Analyze employee attrition across departments
 - Understand salary distribution and job roles

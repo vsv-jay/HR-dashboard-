@@ -1,16 +1,46 @@
-# HR-dashboard-Tableau
-This Tableau dashboard analyzes HR data to help visualize key workforce metrics. It is designed to assist HR managers in making data-driven decisions regarding employee performance, retention, and overall company health.
+# 📊 HR Analytics Dashboard — Tableau
 
-Key Features
--Attrition Analysis by Department
--Employee Count by Job Role
--Average Monthly Income by Department
--Attrition vs Job Satisfaction
--Education vs Performance Rating
--Gender and Age Group Distribution
+## 🔍 Project Overview
+This project focuses on analyzing human resources data using Tableau to help organizations understand employee attrition, job satisfaction, salary distribution, and workforce trends.
 
-Insights Derived
--Departments with highest attrition
--Impact of income and satisfaction on attrition
--Education level correlation with performance
--Job roles with highest employee turnover
+The dashboard is designed for HR managers and leadership teams to support data-driven workforce planning and retention strategies.
+
+---
+
+## 📸 Dashboard Preview
+*(Add a dashboard screenshot here as `.png`)*
+[HR DASHBOARD.png]
+---
+
+## 🎯 Objectives
+- Analyze employee attrition across departments
+- Understand salary distribution and job roles
+- Identify patterns in job satisfaction
+- Support HR decision-making using visual insights
+
+---
+
+## 📈 Key Insights
+- Attrition trends by department and job role
+- Relationship between salary and employee turnover
+- Job satisfaction analysis across roles
+- Workforce distribution by experience and age
+
+---
+
+## 🛠️ Tools & Technologies
+- Tableau Desktop
+- Data visualization & dashboard design
+- HR analytics concepts
+
+---
+
+## 📂 Files in Repository
+- `HR.twb` – Tableau packaged workbook
+- `HR DASHBOARD.png` – Dashboard preview image
+- Dataset used for analysis
+
+---
+
+## 📌 Notes
+This project is created for learning and portfolio purposes using sample HR data.

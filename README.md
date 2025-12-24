@@ -1,4 +1,4 @@
-# HR-dashboard-
+# HR-dashboard-Tableau
 This Tableau dashboard analyzes HR data to help visualize key workforce metrics. It is designed to assist HR managers in making data-driven decisions regarding employee performance, retention, and overall company health.
 
 Key Features

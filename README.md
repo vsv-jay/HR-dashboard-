@@ -1,39 +1,68 @@
-# 📊 HR Analytics Dashboard — Tableau
+# 👥 HR Analytics Dashboard — Tableau
 
 ## 🔍 Project Overview
-This project focuses on analyzing human resources data using Tableau to help organizations understand employee attrition, job satisfaction, salary distribution, and workforce trends.
+This project analyzes **employee attrition and workforce data** to help HR teams understand **why employees leave and how to improve retention.**
 
-The dashboard is designed for HR managers and leadership teams to support data-driven workforce planning and retention strategies.
+The dashboard provides visibility into:
+✔ Attrition trends  
+✔ Department-wise employee distribution  
+✔ Salary & job role insights  
+✔ Key HR performance metrics  
+
+---
+
+## 🛠 Tools Used
+- Tableau
+- Excel Dataset
+
+---
 
 ## 🎯 Objectives
-- Analyze employee attrition across departments
-- Understand salary distribution and job roles
-- Identify patterns in job satisfaction
-- Support HR decision-making using visual insights
+- Identify factors driving attrition
+- Monitor workforce demographics
+- Support HR policy decisions
+- Improve employee retention strategy
 
 ---
 
-## 📈 Key Insights
-- Attrition trends by department and job role
-- Relationship between salary and employee turnover
-- Job satisfaction analysis across roles
-- Workforce distribution by experience and age
+## 📌 Key Metrics
+- Attrition Rate  
+- Active Employees  
+- Avg Age  
+- Gender Distribution  
+- Salary Bands  
+- Job Role Attrition  
 
 ---
 
-## 🛠️ Tools & Technologies
-- Tableau Desktop
-- Data visualization & dashboard design
-- HR analytics concepts
+## 📷 Dashboard Preview
+
+> 🔽 **Add screenshots here**
+
+![HR Dashboard](https://github.com/vsv-jay/HR-Analytics-Dashboard-Tableau/blob/main/HR%20DASHBOARD.png)
 
 ---
 
-## 📂 Files in Repository
-- `HR.twb` – Tableau packaged workbook
-- `HR DASHBOARD.png` – Dashboard preview image
-- Dataset used for analysis
+## 🔍 Key Insights
+📉 **Higher attrition among early-career employees**  
+💰 **Lower salary groups show higher attrition**  
+🏢 **Certain departments face higher turnover risk**  
+🕒 **Attrition peaks within first few service years**
 
 ---
 
-## 📌 Notes
-This project is created for learning and portfolio purposes using sample HR data.
+## 🧠 Business Use Case
+This dashboard helps HR teams:
+- Identify at-risk employees
+- Improve hiring & retention strategy
+- Monitor workforce health
+- Support leadership reporting
+
+---
+
+## 🚀 Future Scope
+🔹 Predict attrition risk  
+🔹 Analyze performance vs attrition  
+🔹 Include HR survey feedback  
+
+---
